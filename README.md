@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm JSaplication</h1>
 <h3 align="center">Desenvolvimentos de aplictivos Android, IOS, Desktop</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsaplication" alt="jsaplication" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://jsaplication.com.br](https://jsaplication.com.br)
+
+- 💬 Ask me about **Javascript, PHP, VB, Python, etc**
+
+- 📫 How to reach me **jsaplication.mobile@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jsaplication" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jsaplication" height="30" width="40" /></a>
 <a href="https://twitter.com/jsaplication" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsaplication" height="30" width="40" /></a>
 <a href="https://fb.com/jsaplication" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jsaplication" height="30" width="40" /></a>
+<a href="https://instagram.com/jsaplication" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsaplication" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jsaplication" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jsaplication" height="30" width="40" /></a>
 <a href="https://discord.gg/jsaplication" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jsaplication" height="30" width="40" /></a>
 </p>
