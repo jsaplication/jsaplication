@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JSaplication</h1>
-<h3 align="center">Desenvolvimentos de aplictivos Android, IOS, Desktop</h3>
+<h3 align="center">Desenvolvimentos de aplicativos Android, IOS, Desktop, Web</h3>
 
 - 👨‍💻 All of my projects are available at [https://jsaplication.com.br](https://jsaplication.com.br)
 
